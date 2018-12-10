@@ -4,5 +4,5 @@
 `dG`
 
 ## Plugins
-	__use__ [vundle](https://github.com/VundleVim/Vundle.vim) to manage the plugins
+_use_ [vundle](https://github.com/VundleVim/Vundle.vim) to manage the plugins
 
