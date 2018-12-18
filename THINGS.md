@@ -7,3 +7,7 @@ wyze cam - this seems to be popular, but not available in the uk, ALSO it can be
 
 ### motioneyeos forums
 [link](https://groups.google.com/forum/m/#!forum/motioneye)
+
+
+## MISC Links
+[remove backgrounds](https://www.remove.bg/)
