@@ -8,6 +8,7 @@ Some are work/code related - some are not
 - [THINGS](./THINGS.md)
 - [DOCKER](./DOCKER.md)
 - [JAVASCRIPT](./JAVASCRIPT.md)
+- [BASH](./BASH.md)
 
 
 I should probalby use branches to swtich between home/work etc
