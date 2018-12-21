@@ -8,6 +8,7 @@ Some are work/code related - some are not
 - [THINGS](./THINGS.md)
 - [DOCKER](./DOCKER.md)
 - [JAVASCRIPT](./JAVASCRIPT.md)
+- [VS_CODE](./VS_CODE.md)
 - [BASH](./BASH.md)
 
 
